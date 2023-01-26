@@ -1,0 +1,147 @@
+*{
+    font-family: Poppins;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    /* padding: 15px; */
+
+}
+.navbar{
+    background-color: white;
+    padding: 0 !important;
+    color: black;
+}
+.navbar-brand img{
+    height: 40px;
+    padding-left: 20px;
+}
+.navbar-nav li{
+    padding: 0 10px;
+
+}
+.navbar-nav li a{
+    /* color: black !important; */
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.fa-bars{
+    color: #fff;
+    font-size: 40px !important;
+}
+.navbar-toggler{
+    outline: none !important;
+    color: black;
+}
+
+.title-home ,h1 ,h2{
+    font-weight: 900 !important;
+}
+
+
+.btn-order {
+	color: var(--bs-teal);
+	transition: 0.5s;
+    color: #fff ;
+    background-color: black;
+    border-top-left-radius: 2px;
+}
+
+.btn-order:hover,
+.btn-order:focus,
+.btn-order:active {
+	color: #fff;
+	background-color: black;
+}
+.d-block1{
+    background-color: #fff;
+    width:190.84px;
+    height: 50.14px;
+    right: 1273.26px;
+    align-items: center;
+    justify-content: center;
+    font-weight:  900 !important;
+}
+.d-block2{
+    background-color: #fed243;
+    width: 200.74px;
+    height: 50.14px;
+    right: 1273.26px;
+    font-weight:  900 !important;
+
+}
+
+.img-banner{
+	width: 100%;
+	height: 300;
+}
+#banner{
+	background-color: #F4F6F5;
+}
+.banner2 .row{
+	background-color: #EBD96B;
+    padding: 30px;
+    display:flex;
+    align-items:center;
+    justify-content:center; 
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;	
+}
+.banner2 .row img{
+    width: 50%;
+    height: 50%;
+}
+#banner1{
+	background: linear-gradient(1.32deg, #E0C340 0.13%, #DFC23E 3.97%, #E1C441 7.2%, #E3C743 10.13%, #E4C542 12.98%, #E6C744 15.99%, #E7C845 19.52%, #E5C643 23.96%, #E6C945 30.43%, #E3C743 36.49%, #E9CA48 42.49%, #EDCE49 49.35%, #F0D44C 55.42%, #F4D84F 61.43%, #F6DA52 65.74%, #F7DB53 72.23%, #F9DD55 77.43%, #F9DF56 83.84%, #FAE157 91.52%, #F9DF56 97.87%);
+
+}
+.cc-footer{
+    background-color: black;
+    color: #fff;
+    font-size: 10;
+    font-weight: 90;
+}
+.cc-footer h2{
+    font-weight: 100%;
+}
+.contact{
+    background-color: #E5C643;
+    text-align: center;
+    color: #fff;
+    font-weight: 200;
+}
+.btn{
+    color: white;
+}
+.img-fluid{
+    width: 100%;
+    padding-left: 400;
+
+}
+.search .btn-btn{
+    height: 40px;
+}
+.icons .rt {
+    width: 20px;
+    height: 20px;
+    
+}
+.play{
+    width: 20%;
+    height: 20%px;
+
+}
+
+h2{
+    font-weight: 600 !important;
+}
+
